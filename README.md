@@ -73,5 +73,3 @@ This project demonstrates complete data analytics workflow:
 
 ---
 
-## 👨‍💻 Author
-Allu Akshaya
